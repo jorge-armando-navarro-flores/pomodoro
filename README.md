@@ -1,2 +1,2 @@
 # Pomodoro App
-![pomodoro app](gifs/pomodoro_app.gif)
+![pomodoro app](gifs/pomodoro.gif)
